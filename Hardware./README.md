@@ -14,14 +14,14 @@ the controller sends the signal, the driver handles the power, and the motor mov
 ## Hardware Design Photos 📸
 
 ### Schematic Design
-<img src="Screenshot%202026-06-09%20073747.png" alt="Motor Driver Schematic Design" width="700">
-
-### PCB Routing
-<img src="Screenshot%202026-06-09%20073834.png" alt="Motor Driver PCB Routing" width="700">
-
-### PCB Layout / Board View
 <img src="Screenshot%202026-06-09%20073736.png" alt="Motor Driver PCB Layout" width="700">
 
+### PCB Routing
+
+<img src="Screenshot%202026-06-09%20073747.png" alt="Motor Driver Schematic Design" width="700">
+### PCB Layout / Board View
+
+<img src="Screenshot%202026-06-09%20073834.png" alt="Motor Driver PCB Routing" width="700">
 ---
 
 ## Hardware Components Used
